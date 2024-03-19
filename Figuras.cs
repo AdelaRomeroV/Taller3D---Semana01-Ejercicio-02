@@ -70,7 +70,7 @@ namespace Area_y_perimetro
 
                 }
 
-                Console.WriteLine("Desea continuar, SI/NO");
+                Console.WriteLine("Desea continuar, SI/NO \n");
                 if (Console.ReadLine() == "NO")
                 {
                     continueflag = false;

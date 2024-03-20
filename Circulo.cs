@@ -19,7 +19,7 @@ namespace Area_y_perimetro
 
         public float Area()
         {
-            return pi * (cRadio * 2);
+            return pi * (cRadio * cRadio);
         }
 
         public float Perimetro()
